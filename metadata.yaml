@@ -1,0 +1,56 @@
+_repo: The-Book-of-Dragons_23661
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Fell, Herbert Granville
+    aliases:
+    - Fell, H. Granville (Herbert Granville)
+    - Fell, Granville
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '25968'
+    url: http://www.gutenberg.org/2009/agents/25968
+  - agent_name: Millar, H. R. (Harold Robert)
+    aliases:
+    - Millar, Harold Robert
+    - Millar, H.R.
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '7296'
+    url: http://www.gutenberg.org/2009/agents/7296
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2007-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Dragons -- Fiction'
+- !lcsh 'Dragons -- Juvenile fiction'
+tableOfContents: The book of beasts -- Uncle James, or, The purple stranger -- The
+  deliverers of their country -- The ice dragon, or, Do as you are told -- The island
+  of the nine whirlpools -- The dragon tamers -- The fiery dragon, or, The heart of
+  stone and the heart of gold -- Kind little Edmund, or, The caves and the cockatrice.
+title: The Book of Dragons
+url: http://www.gutenberg.org/ebooks/23661
