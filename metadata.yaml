@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/407
     wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23661#The-Book-of-Dragons
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2007-11-29'
 gutenberg_type: Text
